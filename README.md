@@ -33,7 +33,7 @@ Voor de vorm van het logboek heb ik besloten om het in digitale vorm op te lever
 - Plan van aanpak
 - Uitwerking opdracht
 - Reflectie
-- Geraadpleegte bronnen
+- Geraadpleegde bronnen
 
 
 ## Planning

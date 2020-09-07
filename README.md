@@ -21,9 +21,9 @@ zelfde versie vrijwel onmogelijk.
 #### Toelichting keuzes
 
 Voor de vorm van het logboek heb ik besloten om het in digitale vorm op te leveren in twee formaten:  
-- Een repository op GitHub, een platform dat versiebeheer aanbied en hosten van markdown documenten mogelijk maakt
+- Een repository op GitHub, een platform dat versiebeheer aanbied en hosten van markdown documenten mogelijk maakt  
 - Een portable document file, wat makkelijk te printen is en een vrije standaard in menig bedrijfscultuur.
-----
+
 
 ### Index
 

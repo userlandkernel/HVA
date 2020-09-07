@@ -4,6 +4,9 @@
 #### Auteur
 Sem Voigtländer
 
+### Hashes
+Voor de integriteit van dit document kunt u (hashes.txt)[dit document gebruiken]
+
 #### Description
 
 Dit logboek houd alle werkzaamheden en gebeurtenissen bij die ik persoonlijk verricht in de context van het lesmateriaal van OnTheJob aan de HvA.  

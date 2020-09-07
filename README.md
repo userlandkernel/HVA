@@ -24,7 +24,7 @@ Voor de vorm van het logboek heb ik besloten om het in digitale vorm op te lever
 
 - Een repository op GitHub, een platform dat versiebeheer aanbied en hosten van markdown documenten mogelijk maakt  
 
-- Een portable document file, wat makkelijk te printen is en een vrije standaard in menig bedrijfscultuur.
+- Een portable document file, wat makkelijk te printen is en een gebruikelijke standaard in menig bedrijfscultuur.
 
 
 ### Index

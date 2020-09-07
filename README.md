@@ -6,7 +6,7 @@ Sem Voigtländer
 
 #### Description
 
-Dit logboek houd alle werkzaamheden en gebeurtenissen die ik persoonlijk verricht in de context van het lesmateriaal van OnTheJob aan de HvA.  
+Dit logboek houd alle werkzaamheden en gebeurtenissen bij die ik persoonlijk verricht in de context van het lesmateriaal van OnTheJob aan de HvA.  
 In dit logboek zult u per week een indeling vinden van geplande gebeurtenissen en in welke dusdanigheid ik deze heb uitgevoerd.  
 De planning zal regelmatig worden aangepast naar mate de tijd verstrijkt.  
 In het cursus materiaal van OnTheJob valt te lezen dat het belangrijk is dat een logboek integer is en ongeauthorizeerde mutaties moet tegengaan.  

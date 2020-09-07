@@ -4,7 +4,7 @@
 #### Auteur
 Sem Voigtländer
 
-### Hashes
+#### Hashes
 Voor de integriteit van dit document kunt u [dit document gebruiken](hashes.txt)
 
 #### Description

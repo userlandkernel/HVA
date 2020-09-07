@@ -5,7 +5,7 @@
 Sem Voigtländer
 
 ### Hashes
-Voor de integriteit van dit document kunt u (dit document gebruiken)[hashes.txt]
+Voor de integriteit van dit document kunt u [dit document gebruiken](hashes.txt)
 
 #### Description
 

@@ -30,7 +30,7 @@ Voor de vorm van het logboek heb ik besloten om het in digitale vorm op te lever
 ### Index
 
 - Planning
-- Plan van aanpak
+- Plan van aanpak (Eventueel analysedocument met MSCW-method)
 - Uitwerking opdracht
 - Reflectie
 - Geraadpleegde bronnen

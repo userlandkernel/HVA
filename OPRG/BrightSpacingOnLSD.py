@@ -28,7 +28,7 @@ class HVABrightSpaceSSO:
 		options = soup.find("form", {"id":"options"})
 		self.adfs = str(options['action'])
 
-	def Login(self, username="sem.voigtlander@hva.nl", password=None):
+	def Login(self, username=None, password=None):
 
 		if self.username:
 			username = self.username
@@ -36,6 +36,11 @@ class HVABrightSpaceSSO:
 		if self.password:
 			password = self.password
 
+		# request username if needed
+		if username == None or len(username) < 3:
+			username = str(input("username: "))
+		
+		# request password if needed
 		if password == None or len(password) < 3:
 			password=str(getpass())
 
